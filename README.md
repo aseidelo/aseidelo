@@ -5,6 +5,6 @@ At the moment, I’m a **MSc computer engineering student at University of São 
 
 ## 
 
-- I’m currently working on [PLSum](https://github.com/aseidelo/wiki_generator), a framework for _seq2seq_ summarization in Brazilian Portuguese, using Transformers networks. A previous already published work on a simmilar topic is [here](https://github.com/aseidelo/MD-ASES).
+- I’m currently working on [wiki_generator](https://github.com/aseidelo/wiki_generator), a framework for _seq2seq_ summarization in Brazilian Portuguese, using Transformers networks. A previous already published work on a simmilar topic is [MD-ASES](https://github.com/aseidelo/MD-ASES).
 
 - Always looking to collaborate on new projects ⚡
